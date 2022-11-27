@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="TestApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestApp_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TestApp.jar">
+        <element id="module-output" name="TestApp" />
+      </element>
+      <element id="library" level="project" name="jazzer_api_deploy" />
+      <element id="library" level="project" name="google.code.gson" />
+    </root>
+  </artifact>
+</component>

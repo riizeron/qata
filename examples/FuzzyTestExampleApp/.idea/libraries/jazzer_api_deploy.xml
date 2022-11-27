@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jazzer_api_deploy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jazzer-windows-0.10.0.tar/jazzer_api_deploy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
